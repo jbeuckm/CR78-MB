@@ -16802,7 +16802,7 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <part name="R2" library="rcl" deviceset="R-US_" device="0207/7" value="470k"/>
 <part name="R3" library="rcl" deviceset="R-US_" device="0207/7" value="47k"/>
 <part name="R4" library="rcl" deviceset="R-US_" device="0207/7" value="220R"/>
-<part name="C3" library="rcl" deviceset="CPOL-US" device="B45181A" value="1uF"/>
+<part name="C3" library="rcl" deviceset="CPOL-US" device="B45181B" value="1uF"/>
 <part name="JCK1" library="erthenvar" deviceset="AUDIO-JACK" device=""/>
 <part name="R1" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="Q518" library="808_lt" deviceset="2N3904" device=""/>
